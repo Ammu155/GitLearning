@@ -1,0 +1,8 @@
+1.what is important static variable:
+*no need to assign value again and again once we assign the value convert to value step bystep
+ex:rollno,emp id;
+ 
+
+
+
+

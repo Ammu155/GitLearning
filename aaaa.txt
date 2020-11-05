@@ -1,0 +1,29 @@
+local variable ;
+ 1. particluar block only using tis variable
+
+2.we cannot access anther methhod 
+3.anyone place only using this variable
+4.method using loacal varible declare we cannot find main method
+
+how to call 
+public class var
+{
+int d=100;
+{
+public void display()
+{
+int b=90;
+
+}
+psvm{
+var v=new var();
+sysout(d.v)
+v.b()}
+
+instance varible:we can create objet wwherever we can use instance variable 
+it is a create instance variable inside class wherever we access and method also
+
+
+static variable :
+ method outside only we create variable
+only one time copied 

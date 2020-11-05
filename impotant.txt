@@ -1,0 +1,9 @@
+1.loop
+2.if-else
+3.data type
+4.jdk
+5.method or function
+https://www.knowledgeboat.com/learn/class-11-isc-understanding-computer-science-bluej/solutions/wgWBP/java-operators-expressions
+==,equals what is differ
+
+byte?
